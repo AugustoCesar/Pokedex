@@ -1,3 +1,10 @@
+<h2>- This project was carried out to recreate the pokedex of the pokemon anime, using Vue.js</h2>
+
+<h2>- API: PokeAPI: https://pokeapi.co/ </h2>
+
+<h2>- Frameworks: Vue.js and Bulma CSS </h2>
+
+
 # pokedex
 
 ## Project setup
